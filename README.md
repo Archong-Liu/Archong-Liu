@@ -22,7 +22,7 @@ Outside of work I write about what I learn. I've put out 30+ DevOps and cloud ar
 
 **A few things I've built**
 
-**[Serverless Shared Calendar](https://github.com/Archong-Liu)** — AWS, CDK, GitHub Actions  
+**[Serverless Shared Calendar](https://github.com/Archong-Liu/30DaysAWS-CoCaling)** — AWS, CDK, GitHub Actions  
 Fully automated CI/CD with OIDC-based access. Costs $0/month to run. I built this partly as a side project, partly as a proof that "serverless + proper IaC" is not an oxymoron.
 
 **Distributed Weather Forecast System** — GCP, GKE, Redis  
